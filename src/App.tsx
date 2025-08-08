@@ -15,7 +15,7 @@ const App: React.FC = () => {
         <Home />
         <main>
           <Routes>
-            <Route path="/test/" element={<Home services={mockServices} events={mockEvents} stats={mockStats} />} />
+            <Route path="/" element={<Home services={mockServices} events={mockEvents} stats={mockStats} />} />
             <Route path="/events/all-R/aig/sochi/" element={<Event event={mockEvent} relatedEvents={mockEvents} />} />
           </Routes>
         </main>
