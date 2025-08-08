@@ -26,6 +26,7 @@ const Footer: React.FC<FooterProps> = ({
                 Ведущий поставщик медицинского оборудования и технологий в России. 
                 Мы помогаем медицинским учреждениям оснащаться современным оборудованием.
               </p>
+              
               <div className="social-links">
                 {socialLinks.map((link) => (
                   <a key={link.id} href={link.url} className="social-link">
