@@ -12,6 +12,7 @@ const App: React.FC = () => {
     <Router>
       <div className="app">
         <Header />
+        <Home />
         <main>
           <Routes>
             <Route path="/" element={<Home services={mockServices} events={mockEvents} stats={mockStats} />} />
