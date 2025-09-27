@@ -27,21 +27,21 @@ export const mockSpeakers: Speaker[] = [
     name: 'Доктор А.В. Иванов',
     position: 'Главный врач',
     organization: 'ЦКБ РАН',
-    avatar: '/speaker1.jpg'
+    avatar: './dist/спикер1.jpg'
   },
   {
     id: '2',
     name: 'Профессор М.С. Петрова',
     position: 'Ведущий специалист',
     organization: 'НИИ кардиологии им. Мясникова',
-    avatar: '/speaker2.jpg'
+    avatar: './dist/спикер2.jpg'
   },
   {
     id: '3',
     name: 'Доктор П.К. Сидоров',
     position: 'Руководитель отделения',
     organization: 'Медицинский центр "Европейский"',
-    avatar: '/speaker3.jpg'
+    avatar: './dist/спикер3.jpg'
   }
 ];
 
@@ -83,7 +83,7 @@ export const mockEvent: Event = {
   date: '15-17 декабря 2024',
   location: 'Сочи, Россия',
   category: 'Конференция',
-  image: './dist/event-sochi-detail.jpg',
+  image: './dist/конфа.jpg',
   price: '25,000 ₽',
   organizer: 'Praesens Medical',
   address: 'ул. Олимпийская, 35',
