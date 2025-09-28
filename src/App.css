@@ -482,7 +482,7 @@ body {
 
 .event-main .event-image {
   height: 300px;
-  background: url('./med.jpg') center center;
+  background: url('../med.jpg') center center;
   border-radius: 12px;
   margin-bottom: 2rem;
   display: flex;
