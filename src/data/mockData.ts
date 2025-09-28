@@ -99,7 +99,7 @@ export const mockEvents: Event[] = [
     date: '20-22 января 2025',
     location: 'Москва, Россия',
     category: 'Выставка',
-    image: './dist/techno.jpg',
+    image: './techno.jpg',
     organizer: 'Praesens Medical'
   },
   {
@@ -109,7 +109,7 @@ export const mockEvents: Event[] = [
     date: '10-12 февраля 2025',
     location: 'Санкт-Петербург, Россия',
     category: 'Конференция',
-    image: './dist/piter.jpg',
+    image: './piter.jpg',
     organizer: 'Praesens Medical'
   }
 ];
