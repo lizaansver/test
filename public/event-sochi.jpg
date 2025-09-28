@@ -1,0 +1,5 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="#e5e7eb"/>
+  <rect x="50" y="50" width="300" height="100" rx="8" fill="#2563eb" opacity="0.1"/>
+  <text x="200" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#6b7280">Конференция в Сочи</text>
+</svg> 
