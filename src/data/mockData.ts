@@ -83,7 +83,7 @@ export const mockEvent: Event = {
   date: '15-17 декабря 2024',
   location: 'Сочи, Россия',
   category: 'Конференция',
-  image: './dist/конфа.jpg',
+  image: './конфа.jpg',
   price: '25,000 ₽',
   organizer: 'Praesens Medical',
   address: 'ул. Олимпийская, 35',
